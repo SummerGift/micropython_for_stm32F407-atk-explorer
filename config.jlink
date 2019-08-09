@@ -1,0 +1,9 @@
+si 1
+device=STM32F407ZG
+speed 30000
+r
+h
+loadbin rtthread.bin 0x8000000
+r
+g
+q
