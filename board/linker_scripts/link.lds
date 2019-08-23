@@ -56,6 +56,10 @@ SECTIONS
         PROVIDE(__ctors_end__ = .);
         
         . = ALIGN(4);
+
+        __rtmsymtab_start = .;
+        KEEP(*(RTMSymTab));
+        __rtmsymtab_end = .;
         
         _etext = .;
     } > CODE = 0
