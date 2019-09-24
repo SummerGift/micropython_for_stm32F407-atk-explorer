@@ -7,6 +7,7 @@
  * Date           Author       Notes
  * 2018-11-06     SummerGift   first version
  * 2018-11-19     flybreak     add stm32f407-atk-explorer bsp
+ * 2019-09-24     SummerGift   micropython support
  */
 
 #include <rtthread.h>
@@ -17,21 +18,28 @@
 
 #define FS_PARTITION_NAME     "W25Q128"
 
-/* defined the LED0 pin: PF9 */
-#define LED0_PIN    GET_PIN(F, 9)
-
 int main(void)
 {
     if (dfs_mount(FS_PARTITION_NAME, "/", "elm", 0, 0) == 0)
     {
         rt_kprintf("Filesystem initialized!");
     }
+    else
+    {
+        dfs_mkfs("elm", FS_PARTITION_NAME);
+        if (dfs_mount(FS_PARTITION_NAME, "/", "elm", 0, 0) == 0)
+        {
+            rt_kprintf("Failed to initialize filesystem! The mpy fs module is not available.");
+        }
+    }
 
     rt_thread_mdelay(100);
 
-    extern void mpy_main(const char *filename);
-    mpy_main(NULL);
+    while(1)
+    {
+        extern void mpy_main(const char *filename);
+        mpy_main(NULL);
+    }
 
-    rt_kprintf("You can enter repl mode by typing python commands.");
     return RT_EOK;
 }

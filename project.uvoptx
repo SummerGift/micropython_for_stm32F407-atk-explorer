@@ -602,7 +602,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\argcheck.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\argcheck.c</PathWithFileName>
       <FilenameWithoutPath>argcheck.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -614,7 +614,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\asmarm.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\asmarm.c</PathWithFileName>
       <FilenameWithoutPath>asmarm.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -626,7 +626,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\asmbase.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\asmbase.c</PathWithFileName>
       <FilenameWithoutPath>asmbase.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -638,7 +638,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\asmthumb.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\asmthumb.c</PathWithFileName>
       <FilenameWithoutPath>asmthumb.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -650,7 +650,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\asmx64.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\asmx64.c</PathWithFileName>
       <FilenameWithoutPath>asmx64.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -662,7 +662,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\asmx86.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\asmx86.c</PathWithFileName>
       <FilenameWithoutPath>asmx86.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -674,7 +674,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\asmxtensa.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\asmxtensa.c</PathWithFileName>
       <FilenameWithoutPath>asmxtensa.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -686,7 +686,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\bc.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\bc.c</PathWithFileName>
       <FilenameWithoutPath>bc.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -698,7 +698,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\binary.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\binary.c</PathWithFileName>
       <FilenameWithoutPath>binary.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -710,7 +710,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\builtinevex.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\builtinevex.c</PathWithFileName>
       <FilenameWithoutPath>builtinevex.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -722,7 +722,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\builtinhelp.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\builtinhelp.c</PathWithFileName>
       <FilenameWithoutPath>builtinhelp.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -734,7 +734,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\builtinimport.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\builtinimport.c</PathWithFileName>
       <FilenameWithoutPath>builtinimport.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -746,7 +746,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\compile.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\compile.c</PathWithFileName>
       <FilenameWithoutPath>compile.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -758,7 +758,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitbc.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitbc.c</PathWithFileName>
       <FilenameWithoutPath>emitbc.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -770,7 +770,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitcommon.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitcommon.c</PathWithFileName>
       <FilenameWithoutPath>emitcommon.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -782,7 +782,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitglue.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitglue.c</PathWithFileName>
       <FilenameWithoutPath>emitglue.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -794,7 +794,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitinlinethumb.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitinlinethumb.c</PathWithFileName>
       <FilenameWithoutPath>emitinlinethumb.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -806,7 +806,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitinlinextensa.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitinlinextensa.c</PathWithFileName>
       <FilenameWithoutPath>emitinlinextensa.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -818,7 +818,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitnarm.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitnarm.c</PathWithFileName>
       <FilenameWithoutPath>emitnarm.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -830,7 +830,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitnative.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitnative.c</PathWithFileName>
       <FilenameWithoutPath>emitnative.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -842,7 +842,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitnthumb.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitnthumb.c</PathWithFileName>
       <FilenameWithoutPath>emitnthumb.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -854,7 +854,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitnx64.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitnx64.c</PathWithFileName>
       <FilenameWithoutPath>emitnx64.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -866,7 +866,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitnx86.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitnx86.c</PathWithFileName>
       <FilenameWithoutPath>emitnx86.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -878,7 +878,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\emitnxtensa.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\emitnxtensa.c</PathWithFileName>
       <FilenameWithoutPath>emitnxtensa.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -890,7 +890,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\formatfloat.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\formatfloat.c</PathWithFileName>
       <FilenameWithoutPath>formatfloat.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -902,7 +902,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\frozenmod.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\frozenmod.c</PathWithFileName>
       <FilenameWithoutPath>frozenmod.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -914,7 +914,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\gc.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\gc.c</PathWithFileName>
       <FilenameWithoutPath>gc.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -926,7 +926,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\lexer.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\lexer.c</PathWithFileName>
       <FilenameWithoutPath>lexer.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -938,7 +938,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\malloc.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\malloc.c</PathWithFileName>
       <FilenameWithoutPath>malloc.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -950,7 +950,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\map.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\map.c</PathWithFileName>
       <FilenameWithoutPath>map.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -962,7 +962,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modarray.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modarray.c</PathWithFileName>
       <FilenameWithoutPath>modarray.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -974,7 +974,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modbuiltins.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modbuiltins.c</PathWithFileName>
       <FilenameWithoutPath>modbuiltins.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -986,7 +986,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modcmath.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modcmath.c</PathWithFileName>
       <FilenameWithoutPath>modcmath.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -998,7 +998,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modcollections.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modcollections.c</PathWithFileName>
       <FilenameWithoutPath>modcollections.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1010,7 +1010,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modgc.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modgc.c</PathWithFileName>
       <FilenameWithoutPath>modgc.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1022,7 +1022,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modio.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modio.c</PathWithFileName>
       <FilenameWithoutPath>modio.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1034,7 +1034,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modmath.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modmath.c</PathWithFileName>
       <FilenameWithoutPath>modmath.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1046,7 +1046,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modmicropython.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modmicropython.c</PathWithFileName>
       <FilenameWithoutPath>modmicropython.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1058,7 +1058,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modstruct.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modstruct.c</PathWithFileName>
       <FilenameWithoutPath>modstruct.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1070,7 +1070,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modsys.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modsys.c</PathWithFileName>
       <FilenameWithoutPath>modsys.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1082,7 +1082,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\modthread.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\modthread.c</PathWithFileName>
       <FilenameWithoutPath>modthread.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1094,7 +1094,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\moduerrno.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\moduerrno.c</PathWithFileName>
       <FilenameWithoutPath>moduerrno.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1106,7 +1106,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\mpprint.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\mpprint.c</PathWithFileName>
       <FilenameWithoutPath>mpprint.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1118,7 +1118,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\mpstate.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\mpstate.c</PathWithFileName>
       <FilenameWithoutPath>mpstate.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1130,7 +1130,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\mpy_scheduler.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\mpy_scheduler.c</PathWithFileName>
       <FilenameWithoutPath>mpy_scheduler.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1142,7 +1142,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\mpz.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\mpz.c</PathWithFileName>
       <FilenameWithoutPath>mpz.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1154,7 +1154,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\nativeglue.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\nativeglue.c</PathWithFileName>
       <FilenameWithoutPath>nativeglue.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1166,7 +1166,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\nlr.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\nlr.c</PathWithFileName>
       <FilenameWithoutPath>nlr.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1178,7 +1178,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\nlrsetjmp.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\nlrsetjmp.c</PathWithFileName>
       <FilenameWithoutPath>nlrsetjmp.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1190,7 +1190,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\nlrthumb.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\nlrthumb.c</PathWithFileName>
       <FilenameWithoutPath>nlrthumb.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1202,7 +1202,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\nlrx64.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\nlrx64.c</PathWithFileName>
       <FilenameWithoutPath>nlrx64.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1214,7 +1214,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\nlrx86.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\nlrx86.c</PathWithFileName>
       <FilenameWithoutPath>nlrx86.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1226,7 +1226,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\nlrxtensa.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\nlrxtensa.c</PathWithFileName>
       <FilenameWithoutPath>nlrxtensa.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1238,7 +1238,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\obj.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\obj.c</PathWithFileName>
       <FilenameWithoutPath>obj.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1250,7 +1250,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objarray.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objarray.c</PathWithFileName>
       <FilenameWithoutPath>objarray.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1262,7 +1262,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objattrtuple.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objattrtuple.c</PathWithFileName>
       <FilenameWithoutPath>objattrtuple.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1274,7 +1274,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objbool.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objbool.c</PathWithFileName>
       <FilenameWithoutPath>objbool.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1286,7 +1286,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objboundmeth.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objboundmeth.c</PathWithFileName>
       <FilenameWithoutPath>objboundmeth.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1298,7 +1298,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objcell.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objcell.c</PathWithFileName>
       <FilenameWithoutPath>objcell.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1310,7 +1310,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objclosure.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objclosure.c</PathWithFileName>
       <FilenameWithoutPath>objclosure.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1322,7 +1322,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objcomplex.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objcomplex.c</PathWithFileName>
       <FilenameWithoutPath>objcomplex.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1334,7 +1334,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objdeque.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objdeque.c</PathWithFileName>
       <FilenameWithoutPath>objdeque.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1346,7 +1346,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objdict.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objdict.c</PathWithFileName>
       <FilenameWithoutPath>objdict.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1358,7 +1358,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objenumerate.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objenumerate.c</PathWithFileName>
       <FilenameWithoutPath>objenumerate.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1370,7 +1370,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objexcept.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objexcept.c</PathWithFileName>
       <FilenameWithoutPath>objexcept.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1382,7 +1382,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objfilter.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objfilter.c</PathWithFileName>
       <FilenameWithoutPath>objfilter.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1394,7 +1394,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objfloat.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objfloat.c</PathWithFileName>
       <FilenameWithoutPath>objfloat.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1406,7 +1406,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objfun.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objfun.c</PathWithFileName>
       <FilenameWithoutPath>objfun.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1418,7 +1418,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objgenerator.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objgenerator.c</PathWithFileName>
       <FilenameWithoutPath>objgenerator.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1430,7 +1430,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objgetitemiter.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objgetitemiter.c</PathWithFileName>
       <FilenameWithoutPath>objgetitemiter.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1442,7 +1442,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objint.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objint.c</PathWithFileName>
       <FilenameWithoutPath>objint.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1454,7 +1454,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objint_longlong.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objint_longlong.c</PathWithFileName>
       <FilenameWithoutPath>objint_longlong.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1466,7 +1466,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objint_mpz.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objint_mpz.c</PathWithFileName>
       <FilenameWithoutPath>objint_mpz.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1478,7 +1478,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objlist.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objlist.c</PathWithFileName>
       <FilenameWithoutPath>objlist.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1490,7 +1490,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objmap.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objmap.c</PathWithFileName>
       <FilenameWithoutPath>objmap.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1502,7 +1502,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objmodule.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objmodule.c</PathWithFileName>
       <FilenameWithoutPath>objmodule.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1514,7 +1514,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objnamedtuple.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objnamedtuple.c</PathWithFileName>
       <FilenameWithoutPath>objnamedtuple.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1526,7 +1526,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objnone.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objnone.c</PathWithFileName>
       <FilenameWithoutPath>objnone.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1538,7 +1538,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objobject.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objobject.c</PathWithFileName>
       <FilenameWithoutPath>objobject.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1550,7 +1550,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objpolyiter.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objpolyiter.c</PathWithFileName>
       <FilenameWithoutPath>objpolyiter.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1562,7 +1562,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objproperty.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objproperty.c</PathWithFileName>
       <FilenameWithoutPath>objproperty.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1574,7 +1574,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objrange.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objrange.c</PathWithFileName>
       <FilenameWithoutPath>objrange.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1586,7 +1586,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objreversed.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objreversed.c</PathWithFileName>
       <FilenameWithoutPath>objreversed.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1598,7 +1598,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objset.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objset.c</PathWithFileName>
       <FilenameWithoutPath>objset.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1610,7 +1610,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objsingleton.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objsingleton.c</PathWithFileName>
       <FilenameWithoutPath>objsingleton.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1622,7 +1622,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objslice.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objslice.c</PathWithFileName>
       <FilenameWithoutPath>objslice.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1634,7 +1634,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objstr.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objstr.c</PathWithFileName>
       <FilenameWithoutPath>objstr.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1646,7 +1646,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objstringio.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objstringio.c</PathWithFileName>
       <FilenameWithoutPath>objstringio.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1658,7 +1658,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objstrunicode.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objstrunicode.c</PathWithFileName>
       <FilenameWithoutPath>objstrunicode.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1670,7 +1670,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objtuple.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objtuple.c</PathWithFileName>
       <FilenameWithoutPath>objtuple.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1682,7 +1682,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objtype.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objtype.c</PathWithFileName>
       <FilenameWithoutPath>objtype.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1694,7 +1694,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\objzip.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\objzip.c</PathWithFileName>
       <FilenameWithoutPath>objzip.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1706,7 +1706,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\opmethods.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\opmethods.c</PathWithFileName>
       <FilenameWithoutPath>opmethods.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1718,7 +1718,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\parse.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\parse.c</PathWithFileName>
       <FilenameWithoutPath>parse.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1730,7 +1730,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\parsenum.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\parsenum.c</PathWithFileName>
       <FilenameWithoutPath>parsenum.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1742,7 +1742,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\parsenumbase.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\parsenumbase.c</PathWithFileName>
       <FilenameWithoutPath>parsenumbase.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1754,7 +1754,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\persistentcode.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\persistentcode.c</PathWithFileName>
       <FilenameWithoutPath>persistentcode.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1766,7 +1766,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\pystack.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\pystack.c</PathWithFileName>
       <FilenameWithoutPath>pystack.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1778,7 +1778,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\qstr.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\qstr.c</PathWithFileName>
       <FilenameWithoutPath>qstr.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1790,7 +1790,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\reader.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\reader.c</PathWithFileName>
       <FilenameWithoutPath>reader.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1802,7 +1802,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\repl.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\repl.c</PathWithFileName>
       <FilenameWithoutPath>repl.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1814,7 +1814,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\runtime.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\runtime.c</PathWithFileName>
       <FilenameWithoutPath>runtime.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1826,7 +1826,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\runtime_utils.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\runtime_utils.c</PathWithFileName>
       <FilenameWithoutPath>runtime_utils.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1838,7 +1838,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\scope.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\scope.c</PathWithFileName>
       <FilenameWithoutPath>scope.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1850,7 +1850,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\sequence.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\sequence.c</PathWithFileName>
       <FilenameWithoutPath>sequence.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1862,7 +1862,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\showbc.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\showbc.c</PathWithFileName>
       <FilenameWithoutPath>showbc.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1874,7 +1874,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\smallint.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\smallint.c</PathWithFileName>
       <FilenameWithoutPath>smallint.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1886,7 +1886,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\stackctrl.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\stackctrl.c</PathWithFileName>
       <FilenameWithoutPath>stackctrl.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1898,7 +1898,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\stream.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\stream.c</PathWithFileName>
       <FilenameWithoutPath>stream.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1910,7 +1910,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\unicode.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\unicode.c</PathWithFileName>
       <FilenameWithoutPath>unicode.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1922,7 +1922,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\vm.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\vm.c</PathWithFileName>
       <FilenameWithoutPath>vm.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1934,7 +1934,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\vstr.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\vstr.c</PathWithFileName>
       <FilenameWithoutPath>vstr.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1946,7 +1946,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\py\warning.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\py\warning.c</PathWithFileName>
       <FilenameWithoutPath>warning.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1958,7 +1958,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\mp-readline\readline.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\mp-readline\readline.c</PathWithFileName>
       <FilenameWithoutPath>readline.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1970,7 +1970,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\utils\interrupt_char.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\utils\interrupt_char.c</PathWithFileName>
       <FilenameWithoutPath>interrupt_char.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1982,7 +1982,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\utils\mpirq.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\utils\mpirq.c</PathWithFileName>
       <FilenameWithoutPath>mpirq.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -1994,7 +1994,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\utils\printf.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\utils\printf.c</PathWithFileName>
       <FilenameWithoutPath>printf.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2006,7 +2006,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\utils\pyexec.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\utils\pyexec.c</PathWithFileName>
       <FilenameWithoutPath>pyexec.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2018,7 +2018,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\utils\stdout_helpers.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\utils\stdout_helpers.c</PathWithFileName>
       <FilenameWithoutPath>stdout_helpers.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2030,7 +2030,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\utils\sys_stdio_mphal.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\utils\sys_stdio_mphal.c</PathWithFileName>
       <FilenameWithoutPath>sys_stdio_mphal.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2042,7 +2042,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\machine_i2c.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\machine_i2c.c</PathWithFileName>
       <FilenameWithoutPath>machine_i2c.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2054,7 +2054,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\machine_mem.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\machine_mem.c</PathWithFileName>
       <FilenameWithoutPath>machine_mem.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2066,7 +2066,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\machine_pinbase.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\machine_pinbase.c</PathWithFileName>
       <FilenameWithoutPath>machine_pinbase.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2078,7 +2078,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\machine_pulse.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\machine_pulse.c</PathWithFileName>
       <FilenameWithoutPath>machine_pulse.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2090,7 +2090,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\machine_signal.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\machine_signal.c</PathWithFileName>
       <FilenameWithoutPath>machine_signal.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2102,7 +2102,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\machine_spi.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\machine_spi.c</PathWithFileName>
       <FilenameWithoutPath>machine_spi.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2114,7 +2114,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modbtree.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modbtree.c</PathWithFileName>
       <FilenameWithoutPath>modbtree.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2126,7 +2126,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modframebuf.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modframebuf.c</PathWithFileName>
       <FilenameWithoutPath>modframebuf.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2138,7 +2138,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modonewire.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modonewire.c</PathWithFileName>
       <FilenameWithoutPath>modonewire.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2150,7 +2150,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modubinascii.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modubinascii.c</PathWithFileName>
       <FilenameWithoutPath>modubinascii.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2162,7 +2162,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\moducryptolib.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\moducryptolib.c</PathWithFileName>
       <FilenameWithoutPath>moducryptolib.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2174,7 +2174,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\moductypes.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\moductypes.c</PathWithFileName>
       <FilenameWithoutPath>moductypes.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2186,7 +2186,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\moduhashlib.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\moduhashlib.c</PathWithFileName>
       <FilenameWithoutPath>moduhashlib.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2198,7 +2198,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\moduheapq.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\moduheapq.c</PathWithFileName>
       <FilenameWithoutPath>moduheapq.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2210,7 +2210,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modujson.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modujson.c</PathWithFileName>
       <FilenameWithoutPath>modujson.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2222,7 +2222,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modurandom.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modurandom.c</PathWithFileName>
       <FilenameWithoutPath>modurandom.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2234,7 +2234,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modure.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modure.c</PathWithFileName>
       <FilenameWithoutPath>modure.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2246,7 +2246,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\moduselect.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\moduselect.c</PathWithFileName>
       <FilenameWithoutPath>moduselect.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2258,7 +2258,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modussl_axtls.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modussl_axtls.c</PathWithFileName>
       <FilenameWithoutPath>modussl_axtls.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2270,7 +2270,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modussl_mbedtls.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modussl_mbedtls.c</PathWithFileName>
       <FilenameWithoutPath>modussl_mbedtls.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2282,7 +2282,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modutimeq.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modutimeq.c</PathWithFileName>
       <FilenameWithoutPath>modutimeq.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2294,7 +2294,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\moduwebsocket.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\moduwebsocket.c</PathWithFileName>
       <FilenameWithoutPath>moduwebsocket.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2306,7 +2306,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\moduzlib.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\moduzlib.c</PathWithFileName>
       <FilenameWithoutPath>moduzlib.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2318,7 +2318,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modwebrepl.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modwebrepl.c</PathWithFileName>
       <FilenameWithoutPath>modwebrepl.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2330,7 +2330,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\modwebsocket.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\modwebsocket.c</PathWithFileName>
       <FilenameWithoutPath>modwebsocket.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2342,7 +2342,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\uos_dupterm.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\uos_dupterm.c</PathWithFileName>
       <FilenameWithoutPath>uos_dupterm.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2354,7 +2354,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\utime_mphal.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\utime_mphal.c</PathWithFileName>
       <FilenameWithoutPath>utime_mphal.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2366,7 +2366,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\vfs.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\vfs.c</PathWithFileName>
       <FilenameWithoutPath>vfs.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2378,7 +2378,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\vfs_fat.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\vfs_fat.c</PathWithFileName>
       <FilenameWithoutPath>vfs_fat.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2390,7 +2390,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\vfs_fat_diskio.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\vfs_fat_diskio.c</PathWithFileName>
       <FilenameWithoutPath>vfs_fat_diskio.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2402,7 +2402,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\vfs_fat_file.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\vfs_fat_file.c</PathWithFileName>
       <FilenameWithoutPath>vfs_fat_file.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2414,7 +2414,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\vfs_posix.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\vfs_posix.c</PathWithFileName>
       <FilenameWithoutPath>vfs_posix.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2426,7 +2426,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\vfs_posix_file.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\vfs_posix_file.c</PathWithFileName>
       <FilenameWithoutPath>vfs_posix_file.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2438,7 +2438,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\vfs_reader.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\vfs_reader.c</PathWithFileName>
       <FilenameWithoutPath>vfs_reader.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2450,7 +2450,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\extmod\virtpin.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\extmod\virtpin.c</PathWithFileName>
       <FilenameWithoutPath>virtpin.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2462,7 +2462,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\frozen_mpy.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\frozen_mpy.c</PathWithFileName>
       <FilenameWithoutPath>frozen_mpy.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2474,7 +2474,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\gccollect.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\gccollect.c</PathWithFileName>
       <FilenameWithoutPath>gccollect.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2486,7 +2486,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\mpgetcharport.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\mpgetcharport.c</PathWithFileName>
       <FilenameWithoutPath>mpgetcharport.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2498,7 +2498,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\mphalport.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\mphalport.c</PathWithFileName>
       <FilenameWithoutPath>mphalport.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2510,7 +2510,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\mpputsnport.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\mpputsnport.c</PathWithFileName>
       <FilenameWithoutPath>mpputsnport.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2522,7 +2522,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\mpthreadport.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\mpthreadport.c</PathWithFileName>
       <FilenameWithoutPath>mpthreadport.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2534,7 +2534,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\mpy_main.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\mpy_main.c</PathWithFileName>
       <FilenameWithoutPath>mpy_main.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2546,7 +2546,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modffi.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modffi.c</PathWithFileName>
       <FilenameWithoutPath>modffi.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2558,7 +2558,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modfile.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modfile.c</PathWithFileName>
       <FilenameWithoutPath>modfile.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2570,7 +2570,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modnetwork.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modnetwork.c</PathWithFileName>
       <FilenameWithoutPath>modnetwork.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2582,7 +2582,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modnetwork_wlan.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modnetwork_wlan.c</PathWithFileName>
       <FilenameWithoutPath>modnetwork_wlan.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2594,7 +2594,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modpyb.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modpyb.c</PathWithFileName>
       <FilenameWithoutPath>modpyb.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2606,7 +2606,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modrtthread.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modrtthread.c</PathWithFileName>
       <FilenameWithoutPath>modrtthread.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2618,7 +2618,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\moduos.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\moduos.c</PathWithFileName>
       <FilenameWithoutPath>moduos.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2630,7 +2630,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\moduos_file.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\moduos_file.c</PathWithFileName>
       <FilenameWithoutPath>moduos_file.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2642,7 +2642,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modusocket.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modusocket.c</PathWithFileName>
       <FilenameWithoutPath>modusocket.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2654,7 +2654,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modutils.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modutils.c</PathWithFileName>
       <FilenameWithoutPath>modutils.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2666,7 +2666,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\modutime.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\modutime.c</PathWithFileName>
       <FilenameWithoutPath>modutime.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2678,7 +2678,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_adc.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_adc.c</PathWithFileName>
       <FilenameWithoutPath>machine_adc.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2690,7 +2690,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_hw_i2c.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_hw_i2c.c</PathWithFileName>
       <FilenameWithoutPath>machine_hw_i2c.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2702,7 +2702,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_hw_spi.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_hw_spi.c</PathWithFileName>
       <FilenameWithoutPath>machine_hw_spi.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2714,7 +2714,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_lcd.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_lcd.c</PathWithFileName>
       <FilenameWithoutPath>machine_lcd.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2726,7 +2726,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_pin.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_pin.c</PathWithFileName>
       <FilenameWithoutPath>machine_pin.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2738,7 +2738,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_pwm.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_pwm.c</PathWithFileName>
       <FilenameWithoutPath>machine_pwm.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2750,7 +2750,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_rtc.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_rtc.c</PathWithFileName>
       <FilenameWithoutPath>machine_rtc.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2762,7 +2762,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_timer.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_timer.c</PathWithFileName>
       <FilenameWithoutPath>machine_timer.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2774,7 +2774,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_uart.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_uart.c</PathWithFileName>
       <FilenameWithoutPath>machine_uart.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2786,7 +2786,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\machine_wdt.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\machine_wdt.c</PathWithFileName>
       <FilenameWithoutPath>machine_wdt.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2798,7 +2798,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\modules\machine\modmachine.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\modules\machine\modmachine.c</PathWithFileName>
       <FilenameWithoutPath>modmachine.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2810,7 +2810,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\netutils\netutils.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\netutils\netutils.c</PathWithFileName>
       <FilenameWithoutPath>netutils.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2822,7 +2822,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\lib\timeutils\timeutils.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\lib\timeutils\timeutils.c</PathWithFileName>
       <FilenameWithoutPath>timeutils.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2834,7 +2834,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\drivers\bus\softqspi.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\drivers\bus\softqspi.c</PathWithFileName>
       <FilenameWithoutPath>softqspi.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2846,7 +2846,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\drivers\bus\softspi.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\drivers\bus\softspi.c</PathWithFileName>
       <FilenameWithoutPath>softspi.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2858,7 +2858,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\native\easyflash_module.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\native\easyflash_module.c</PathWithFileName>
       <FilenameWithoutPath>easyflash_module.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2870,7 +2870,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>packages\micropython-latest\port\native\native_module.c</PathWithFileName>
+      <PathWithFileName>packages\micropython-v1.10.2\port\native\native_module.c</PathWithFileName>
       <FilenameWithoutPath>native_module.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
