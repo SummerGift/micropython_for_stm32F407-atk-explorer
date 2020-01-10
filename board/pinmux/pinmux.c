@@ -10,15 +10,9 @@
 
 #include "pinmux.h"
 
-rt_err_t *(*_pinmux_setup_pins)(const struct pin_config *, size_t) = RT_NULL;
+extern rt_err_t _rt_pinmux_setup_pins(const struct pin_config *pinarray, size_t pins);
 
 rt_err_t rt_pinmux_setup_pins(const struct pin_config *pinarray, size_t pins)
 {
-    return *_pinmux_setup_pins(pinarray, pins);
-}
-
-rt_err_t rt_pinmux_register(rt_err_t *(*pinmux_setup_pins)(), const char *name)
-{
-    rt_err_t result = RT_EOK;
-    _pinmux_setup_pins = pinmux_setup_pins;
+    return _rt_pinmux_setup_pins(pinarray, pins);
 }

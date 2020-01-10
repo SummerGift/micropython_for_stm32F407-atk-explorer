@@ -38,7 +38,7 @@ static int stm32_pinmux_pin_set(rt_uint32_t pin, rt_uint8_t mode)
     return 0;
 }
 
-rt_err_t stm32_pinmux_setup_pins(const struct pin_config *pinarray, size_t pins)
+rt_err_t _rt_pinmux_setup_pins(const struct pin_config *pinarray, size_t pins)
 {
     // loop call rt_pinmux_pin_set
     for (int i = 0; i < pins; i++)
@@ -48,14 +48,6 @@ rt_err_t stm32_pinmux_setup_pins(const struct pin_config *pinarray, size_t pins)
 
     return 0;
 }
-
-/* regester stm32 pinmux */
-
-static rt_err_t stm32_pinmux_register(void)
-{
-    return rt_pinmux_register(&stm32_pinmux_setup_pins, "ST");
-}
-INIT_BOARD_EXPORT(stm32_pinmux_register);
 
 
 
