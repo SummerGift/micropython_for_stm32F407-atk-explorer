@@ -17,17 +17,17 @@
 
 #include "pinmux.h"
 
-static int stm32_pinmux_pin_enable(rt_uint32_t pin)
+static int stm32_pinmux_pin_enable(rt_uint8_t pin)
 {
     return 0;
 }
 
-static int stm32_pinmux_pin_configure(rt_uint8_t pin, rt_uint8_t mode)
+static int stm32_pinmux_pin_configure(rt_uint8_t pin, rt_uint32_t mode)
 {
     return 0;
 }
 
-static int stm32_pinmux_pin_set(rt_uint32_t pin, rt_uint8_t mode)
+static int stm32_pinmux_pin_set(rt_uint8_t pin, rt_uint32_t mode)
 {
     // call rt_pinmux_enable_port
     stm32_pinmux_pin_enable(pin);
@@ -38,12 +38,12 @@ static int stm32_pinmux_pin_set(rt_uint32_t pin, rt_uint8_t mode)
     return 0;
 }
 
-rt_err_t _rt_pinmux_setup_pins(const struct pin_config *pinarray, size_t pins)
+rt_err_t _rt_pinmux_setup_pins(const struct pin_config *pin_array, size_t pins)
 {
     // loop call rt_pinmux_pin_set
     for (int i = 0; i < pins; i++)
     {
-        stm32_pinmux_pin_set(pinarray[i].pin_num, pinarray[i].mode);
+        stm32_pinmux_pin_set(pin_array[i].pin_num, pin_array[i].mode);
     }
 
     return 0;
