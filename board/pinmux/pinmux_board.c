@@ -17,7 +17,9 @@ static const struct pin_config pins[] = {
 #ifdef CONFIG_UART_1
 	{6, 6},
 	{7, 7},
-#endif	/* CONFIG_UART_1 */
+#endif
+
+/* other user configration */
 };
 
 static int pinmux_init()
