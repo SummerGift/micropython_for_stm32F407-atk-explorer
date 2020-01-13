@@ -13,7 +13,6 @@
 
 #define CONFIG_UART_1 1
 
-/* pin assignments for NUCLEO-F411RE board */
 static const struct pin_config pinconf[] = {
 #ifdef CONFIG_UART_1
 	{6, 6},
