@@ -13,20 +13,16 @@
 
 #define CONFIG_UART_1 1
 
-static const struct pin_config pinconf[] = {
+static const struct pin_config pins[] = {
 #ifdef CONFIG_UART_1
 	{6, 6},
 	{7, 7},
-#endif	/* CONFIG_UART_1 */
-#ifdef CONFIG_UART_2
-	{8, 8},
-	{8, 8},
 #endif	/* CONFIG_UART_1 */
 };
 
 static int pinmux_init()
 {
-    rt_pinmux_setup_pins(pinconf, ARRAY_SIZE(pinconf));
+    rt_pinmux_setup_pins(pins, RT_ARRAY_SIZE(pins));
 
 	return 0;
 }
