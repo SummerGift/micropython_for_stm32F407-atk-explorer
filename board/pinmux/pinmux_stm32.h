@@ -12,8 +12,8 @@
  * @file header for STM32 pin multiplexing
  */
 
-#ifndef _PINMUX_STM32_PINMUX_STM32_H_
-#define _PINMUX_STM32_PINMUX_STM32_H_
+#ifndef PINMUX_STM32_H_
+#define PINMUX_STM32_H_
 
 /* pretend that array will cover pin functions */
 typedef int stm32_pin_func_t;
@@ -26,4 +26,4 @@ typedef int stm32_pin_func_t;
  */
 
 
-#endif  /* _PINMUX_STM32_PINMUX_STM32_H_ */
+#endif  /* PINMUX_STM32_H_ */
