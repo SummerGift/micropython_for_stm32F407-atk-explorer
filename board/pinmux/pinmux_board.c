@@ -22,7 +22,7 @@ static const struct pin_config pins[] = {
 
 static int pinmux_init()
 {
-    rt_pinmux_setup_pins(pins, RT_ARRAY_SIZE(pins));
+    rt_pinmux_setup_pins(pins, PINMUX_ARRAY_SIZE(pins));
 
 	return 0;
 }

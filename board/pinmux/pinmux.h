@@ -28,7 +28,7 @@ struct pinmux_config {
 
 rt_err_t rt_pinmux_setup_pins(const struct pin_config *pin_array, size_t pins);
 
-#define RT_ARRAY_SIZE(array) ((long)((sizeof(array) / sizeof((array)[0]))))
+#define PINMUX_ARRAY_SIZE(array) (sizeof(a) / sizeof((a)[0]))
 
 #ifdef __cplusplus
 }
